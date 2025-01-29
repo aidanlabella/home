@@ -1,11 +1,10 @@
-primary_name: "Your Name"
+primary_name: "Aidan LaBella"
 secondary_name: ""
-navbar_name: "Your Name"
+navbar_name: "Aidan LaBella"
 
 positions:
-- logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
-  name: Position 1 with logo
-- name: Position 2 without logo
+- logo: /assets/images/badges/brown.png  # Logo is optional
+  name: Ph.D. student at Brown University
 
 
 email: "your@email.com"
@@ -24,10 +23,9 @@ short_bio: >-
   <p>
     A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
   </p>
-  <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+  <p>I am currently working towards my Ph.D. at Brown University in the <a href="https://cs.brown.edu" rel="external nofollow noopener" target="_blank">Department of Computer Science</a> where I am advised by <a href="https://cs.brown.edu/people/sbach" rel="external nofollow noopener" target="_blank">Dr. Stephen Bach</a> in the BATS research group and AI ‘superlab’. I am primarily interested in developing novel solutions for mining and learning from large, real-world datasets while also exploiting new methods for harvesting and labeling data. Lately, I have been interested in solutions for datasets in the scientific domain.</p>
+  <p>My current research has been largely in collaboration with <a href="https://sites.brown.edu/poberlab/" rel="external nofollow noopener" target="_blank">Dr. Jonathan Pober</a> at Brown’s <a href="https://www.brown.edu/academics/physics/" rel="external nofollow noopener" target="_blank">Department of Physics</a> on SWIFT - Spectrum and Wireless Innovation enabled by Future Technologies. SWIFT is an NSF-funded effort to develop machine learning applications for the detection and removal of radio frequency interference (RFI) from 21cm cosmology data. The challenge presented by this task is the sheer volume of unlabeled data that is produced by the data sources (telescopes), prompting the introduction of weak supervision to harvest RFI detection rules that produce meaningful training datasets for anomaly detection models.</p>
+  <p>Before starting my graduate studies at Brown, I graduated with my B.Sc. in Computer Science from RIT. I was advised by and worked on data science and machine learning applications to general aviation flight data, particularly for the FAA-funded National General Aviation Flight Information Database (<a href="https://ngafid.org" rel="external nofollow noopener" target="_blank">NGAFID</a>)</p>
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
@@ -35,16 +33,20 @@ portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
+- name: Brown University
+  logo: /assets/images/badges/brown.png
   position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+    Ph.D., Computer Science (in progress)
+  date: Sep. 2023 - present
+- name: Brown University
+  logo: /assets/images/badges/brown.png
+  position: >- 
+    Sc.M., Computer Science
+  date: Sep. 2023 - May 2025
+- name: Rochester Institute of Technology
+  logo: /assets/images/badges/rit_seal.png
+  position: B.S. (honors), Computer Science
+  date: Sep. 2018 - May 2023
 
 # experience:
 # - name: Peking University
