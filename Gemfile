@@ -30,3 +30,9 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 gem "webrick", "~> 1.7"
 gem "kramdown-parser-gfm"
+
+# Ruby 3.4+ no longer treats these as implicitly available default gems for
+# older Jekyll/Liquid dependencies, so keep them in the bundle explicitly.
+gem "base64"
+gem "bigdecimal"
+gem "logger"
